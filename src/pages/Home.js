@@ -1,4 +1,4 @@
-import Complaint from "../pages/Complaints.js";
+
 // FIX for react-slick + framer-motion compatibility
 import { useEffect } from "react";
 import React from "react";
@@ -12,7 +12,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import mysore from "../assets/cities/mysore.jpg";
 import chandigarh from "../assets/cities/chandigarh.jpg";
-import gangtok from "../assets/cities/gangtok.jpg";
+
 import indore from "../assets/cities/indore.jpg";
 
 export default function Home() {
