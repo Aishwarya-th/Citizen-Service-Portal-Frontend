@@ -1,0 +1,16 @@
+.admin-login {
+  display:flex;
+  justify-content:center;
+  padding:40px;
+}
+.admin-card {
+  width:320px;
+  background:#fff;
+  padding:20px;
+  border-radius:8px;
+  box-shadow:0 4px 12px rgba(0,0,0,0.08);
+}
+.admin-card h2 { text-align:center; margin-bottom:12px; }
+.admin-card input { width:100%; padding:10px; margin-bottom:10px; }
+.admin-card button { width:100%; padding:10px; background:#002d62; color:#fff; border:none; border-radius:6px; }
+.error { color:#d00; margin-bottom:8px; text-align:center; }

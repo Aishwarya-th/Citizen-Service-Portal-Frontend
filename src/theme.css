@@ -1,0 +1,14 @@
+:root {
+  --primary-blue: #0A4FA3;
+  --saffron: #F57C00;
+  --bg-light: #f8f9fa;
+  --card-shadow: rgba(0,0,0,0.1);
+  --nav-height: 70px;
+  --radius: 10px;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background: var(--bg-light);
+  margin: 0;
+}
